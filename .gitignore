@@ -1,7 +1,3 @@
-/packages
-/**/bin/*
-/**/obj/*
-packages/**
 
 # User-specific files
 *.suo
